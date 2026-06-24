@@ -1,5 +1,4 @@
-# ETASI
-MATLAB implementation of the ETAS model considering short-term incompleteness  <br>
+# STAI
+Short-term Aftershock Incompleteness
 Reference: <br>
->> Hainzl, S. (2022): ETAS-Approach Accounting for Short-Term Incompleteness of Earthquake Catalogs. - Bulletin of the Seismological Society of America, 112, 494-507. https://doi.org/10.1785/0120210146 <br>
->> Murru, M., Zhuang, J., Rodolfo, C., & Falcone, G. (2015). Short-term earthquake forecasting experiment before and during the L’Aquila (central Italy) seismic sequence of April 2009. Annals of Geophysics, 57. https://doi.org/10.4401/ag-6583
+>> Zhuang, J., Ogata, Y., & Wang, T. (2017). Data completeness of the Kumamoto earthquake sequence in the JMA catalog and its influence on the estimation of the ETAS parameters. Earth, Planets and Space, 69(1), 36. https://doi.org/10.1186/s40623-017-0614-6
